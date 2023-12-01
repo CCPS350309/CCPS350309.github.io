@@ -1,3 +1,18 @@
+header {
+  font-family: Calibri;
+  color: green;
+}
+
+body {
+  font-family: Calibri;
+  color: green;
+}
+
+foorter {
+  font-family: Calibri;
+  color: green;
+}
+
 p {
   font-family: Calibri;
   color: green;
@@ -6,4 +21,14 @@ p {
 h1 {
   font-family: Helvetica;
   color: Blue;
+}
+
+ul {
+  font-family: Calibri;
+  color: green;  
+}
+
+ol {
+  font-family: Calibri;
+  color: green;
 }
