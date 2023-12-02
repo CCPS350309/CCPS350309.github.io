@@ -1,6 +1,6 @@
 header {
   font-family: Calibri;
-  color: green;
+  color: red;
 }
 
 body {
@@ -10,25 +10,25 @@ body {
 
 foorter {
   font-family: Calibri;
-  color: green;
+  color: yellow;
 }
 
 p {
   font-family: Calibri;
-  color: green;
+  color: blue;
 }
 
 h1 {
-  font-family: Helvetica;
-  color: Blue;
+  font-family: Calibri;
+  color: orange;
 }
 
 ul {
   font-family: Calibri;
-  color: green;  
+  color: brown;  
 }
 
 ol {
   font-family: Calibri;
-  color: green;
+  color: purple;
 }
