@@ -1,34 +1,34 @@
 header {
   font-family: Calibri;
-  color: red;
+  color: Blue;
 }
 
 body {
-  font-family: Calibri;
+  font-size: 15px;
   color: green;
 }
 
 footer {
-  font-family: Calibri;
-  color: yellow;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 p {
   font-family: Calibri;
-  color: blue;
+  text-align: center;
 }
 
 h1 {
-  font-family: Calibri;
-  color: orange;
+  text-align: left;
+  font-size: 20px;
 }
 
 ul {
-  font-family: Calibri;
-  color: brown;  
+  text-align: left;
+  font-weight: bold;
 }
 
 ol {
-  font-family: Calibri;
-  color: purple;
+  font-family: Georgia;
+  font-size: 25px;  
 }
